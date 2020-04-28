@@ -1,7 +1,7 @@
 ---
 - hosts: all
   roles:
-  - wordpress
+  - dmc5179.wordpress
   vars:
     wordpress_installs:
       - name: wordpress

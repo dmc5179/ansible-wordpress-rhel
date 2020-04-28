@@ -1,1 +1,1 @@
-- src: https://github.com/dmc5179/ansible-wordpress-rhel
+- src: dmc5179.wordpress
